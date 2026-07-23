@@ -1,0 +1,46 @@
+navbar:
+  blog_title: "Fangmo's Blog"
+  menu:
+    - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
+    - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
+    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
+
+index:
+  slogan:
+    enable: true
+    text: "AI, Robotics, and Everything I Learn"
+  auto_excerpt:
+    enable: true
+
+post:
+  meta:
+    author:
+      enable: true
+    date:
+      enable: true
+      format: "LL"
+    category:
+      enable: true
+    wordcount:
+      enable: false
+    min2read:
+      enable: false
+  toc:
+    enable: true
+    headingSelector: "h1,h2,h3,h4,h5,h6"
+    collapseDepth: 0
+
+about:
+  avatar: /img/avatar.png
+  name: "Fangmo"
+  intro: "Keep learning, building, and reflecting."
+
+footer:
+  content: '<span>Made with <i class="iconfont icon-love"></i> by Fangmo</span>'
+
+custom_css: /css/custom.css
+
+web_analytics:
+  enable: false
