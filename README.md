@@ -68,8 +68,8 @@ npx.cmd hexo publish "oasis-paper-reading"
 
 ## 第一次发布到 GitHub
 
-1. 网站地址已配置为 `https://gaizuohang.github.io`。
-2. 在 GitHub 创建公开仓库 `gaizuohang.github.io`。
+1. 网站地址已配置为 `https://sbsjkm.github.io`。
+2. GitHub Pages 仓库为 `SBSJKM.github.io`。
 3. 在仓库 `Settings > Pages` 中将 Source 设为 `GitHub Actions`。
 4. 配置 Git 身份并推送：
 
@@ -80,7 +80,7 @@ git init
 git add .
 git commit -m "Initialize personal blog"
 git branch -M main
-git remote add origin https://github.com/gaizuohang/gaizuohang.github.io.git
+git remote add origin https://github.com/SBSJKM/SBSJKM.github.io.git
 git push -u origin main
 ```
 
