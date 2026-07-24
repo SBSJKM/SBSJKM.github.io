@@ -2,7 +2,8 @@
 title: the most influencing books
 date: 2026-07-23 15:35:09
 updated: 2026-07-23 15:35:09
-categories: 随笔
+categories:
+  - Book Notes
 tags:
 ---
 

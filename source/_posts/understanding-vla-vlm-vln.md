@@ -3,7 +3,7 @@ title: VLA、VLM 与 VLN：概念、区别与联系
 date: 2026-07-21 13:00:00
 updated: 2026-07-21 13:00:00
 categories:
-  - 学习笔记
+  - Course Notes
 tags:
   - VLA
   - VLM

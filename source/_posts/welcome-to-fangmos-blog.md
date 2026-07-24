@@ -3,7 +3,7 @@ title: 欢迎来到 Fangmo's Blog
 date: 2026-07-21 12:00:00
 updated: 2026-07-21 12:00:00
 categories:
-  - 随笔
+  - Writing
 tags:
   - Blog
 ---
