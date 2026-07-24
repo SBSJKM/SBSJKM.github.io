@@ -6,22 +6,18 @@ categories:
   - Book Notes
 tags:
 ---
-
-影响我最深的书和影视作品。
+## 影响我最深的书和影视作品。
 
 <!-- more -->
 
-## 背景
-
-## 正文
-
-康德 纯粹理性批判
-周文王 周易
-纸牌屋
-存在主义心理学
-贾平凹 秦腔
 
 
+## 康德 纯粹理性批判
 
+## 周文王 周易
 
-## 总结
+## Netflix  House of Cards
+
+## Corey, G.  Theory and practice of counseling and psychotherapy
+
+## 贾平凹 秦腔
